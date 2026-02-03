@@ -1,4 +1,4 @@
-# ⏱️ Crypto-Algorithms-Benchmark
+# ⏱️ Crypto_Algorithms_Benchmark
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Cryptography](https://img.shields.io/badge/Library-Cryptography-red.svg)](https://cryptography.io/en/latest/)
