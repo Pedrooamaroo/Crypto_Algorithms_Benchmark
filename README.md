@@ -15,7 +15,7 @@ The goal is to provide a clear, empirical comparison of computational overhead b
 ---
 
 ## 📊 Key Findings
-The tests measured processing time across file sizes ranging from **8 bytes to 2 MB**.
+The tests measured processing time across file sizes ranging from **8 bytes to 2 MB** for AES and SHA-256. Due to the mathematical constraints of asymmetric encryption, **RSA** was tested on smaller payloads (up to 128 bytes).
 
 | Algorithm | Type | Performance Verdict |
 | :--- | :--- | :--- |
